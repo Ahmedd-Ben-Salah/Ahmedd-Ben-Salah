@@ -55,10 +55,12 @@
 
 ---
 
+---
+
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedd-Ben-Salah&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedd-Ben-Salah&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
