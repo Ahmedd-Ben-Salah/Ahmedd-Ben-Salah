@@ -74,7 +74,7 @@ I am building a strong technical foundation in networking, systems, and security
 ## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/Ahmedd-Ben-Salah/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ahmedd-Ben-Salah/Ahmedd-Ben-Salah/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
