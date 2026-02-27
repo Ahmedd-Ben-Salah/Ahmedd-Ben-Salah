@@ -53,17 +53,23 @@
 
 ---
 
-## 📊 GitHub Ecosystem
-
 ---
 
 ## 📊 GitHub Ecosystem
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ahmedd-Ben-Salah&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedd-Ben-Salah&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedd-Ben-Salah&show_icons=true&theme=tokyonight" alt="Ahmed's GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedd-Ben-Salah&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedd-Ben-Salah&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
 <p align="center">
   <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedd-Ben-Salah&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
