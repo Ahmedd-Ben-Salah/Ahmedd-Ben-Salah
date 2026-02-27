@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=ICT+&+Software+Engineering+Student;Cybersecurity+Enthusiast;AI+%2B+Security+Explorer;Harvard+Certified" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=ICT+and+Software+Engineering+Student;Cybersecurity+Enthusiast;AI+%2B+Security+Explorer;Harvard+Certified" />
 </p>
 
 <!-- Profile Views -->
