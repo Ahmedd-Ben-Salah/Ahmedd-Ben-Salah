@@ -1,6 +1,6 @@
 <!-- ========================= HEADER ========================= -->
 <a href="https://github.com/Ahmedd-Ben-Salah">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ahmed%20Ben%20Salah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%C2%B7%20Cybersecurity%20%C2%B7%20AI%20%26%20Robotics&descAlignY=58&descSize=18&v=2" width="100%" alt="header"/>
+  <img src="https://raw.githubusercontent.com/Ahmedd-Ben-Salah/Ahmedd-Ben-Salah/main/assets/header.svg" width="100%" alt="Ahmed Ben Salah — Software Engineering, Cybersecurity, AI & Robotics"/>
 </a>
 
 <p align="center">
@@ -184,4 +184,4 @@
 
 <p align="center"><i>"Securing the future, one packet at a time."</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&v=2" width="100%" alt="footer"/>
+<img src="https://raw.githubusercontent.com/Ahmedd-Ben-Salah/Ahmedd-Ben-Salah/main/assets/footer.svg" width="100%" alt="footer"/>
