@@ -101,11 +101,11 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Smart Hospital TN</h3>
-      <p align="center"><i>Java · OOP · GUI</i></p>
-      <p align="center">Complete object-oriented Java app simulating management of a specialized robot fleet inside a Tunisian university hospital.</p>
+      <h3 align="center">🧠 Dalanda</h3>
+      <p align="center"><i>Python · RAG · Multi-Agent AI</i></p>
+      <p align="center">AI personal memory assistant: turns your images, audio & documents into a searchable memory and answers with verified, grounded responses — plus a React chat UI.</p>
       <p align="center">
-        <a href="https://github.com/Ahmedd-Ben-Salah/Smart-Hospital-TN">
+        <a href="https://github.com/Ahmedd-Ben-Salah/dalanda">
           <img src="https://img.shields.io/badge/View%20Repo-203A43?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
