@@ -37,11 +37,11 @@
     <td valign="top" width="42%">
 
 ####  Quick facts
- &nbsp;ICT & Software Eng @ **INSAT**, Tunisia 🇹🇳
-<br/> &nbsp;**3rd place — EMEA** · NXP Cup
-<br/> &nbsp;**CCNA · CSWA · Harvard** certified
-<br/> &nbsp;Ask me about **Python, C/C++, security**
-<br/> &nbsp;2026 goal: deeper into **offensive security**
+ &nbsp;-ICT & Software Eng @ **INSAT**, Tunisia 🇹🇳
+<br/> &nbsp;-**3rd place — EMEA** · NXP Cup
+<br/> &nbsp;-**CCNA · CSWA · Harvard** certified
+<br/> &nbsp;-Ask me about **Python, C/C++, security**
+<br/> &nbsp;-2026 goal: deeper into **offensive security**
 
   </td>
   </tr>
