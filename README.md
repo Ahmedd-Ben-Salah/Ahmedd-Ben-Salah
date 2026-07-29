@@ -18,7 +18,7 @@
 ---
 
 <!-- ========================= ABOUT ========================= -->
-## 🧑‍💻 About Me
+##  About Me
 
 > Software-engineering student who turns curiosity about *how systems break* into tools that make them **stronger**.
 
@@ -26,22 +26,22 @@
   <tr>
     <td valign="top" width="58%">
 
-#### 🚀 What I'm about
-- 🔭 &nbsp;Building **AI-driven security tools & autonomous systems**
-- 🛡️ &nbsp;Hands-on with **pentesting, network defense & threat hunting**
-- 🤖 &nbsp;Applying **machine learning to anomaly & malware detection**
-- 🏎️ &nbsp;Embedded & robotics — **real-time control systems**
-- 🌱 &nbsp;Always leveling up on **TryHackMe / Hack The Box**
+####  What I'm about
+-  &nbsp;Building **AI-driven security tools & autonomous systems**
+-  &nbsp;Hands-on with **pentesting, network defense & threat hunting**
+-  &nbsp;Applying **machine learning to anomaly & malware detection**
+-  &nbsp;Embedded & robotics — **real-time control systems**
+-  &nbsp;Always leveling up on **TryHackMe / Hack The Box**
 
   </td>
     <td valign="top" width="42%">
 
-#### ⚡ Quick facts
-🎓 &nbsp;ICT & Software Eng @ **INSAT**, Tunisia 🇹🇳
-<br/>🏆 &nbsp;**3rd place — EMEA** · NXP Cup
-<br/>📜 &nbsp;**CCNA · CSWA · Harvard** certified
-<br/>💬 &nbsp;Ask me about **Python, C/C++, security**
-<br/>🎯 &nbsp;2026 goal: deeper into **offensive security**
+####  Quick facts
+ &nbsp;ICT & Software Eng @ **INSAT**, Tunisia 🇹🇳
+<br/> &nbsp;**3rd place — EMEA** · NXP Cup
+<br/> &nbsp;**CCNA · CSWA · Harvard** certified
+<br/> &nbsp;Ask me about **Python, C/C++, security**
+<br/> &nbsp;2026 goal: deeper into **offensive security**
 
   </td>
   </tr>
@@ -50,22 +50,22 @@
 ---
 
 <!-- ========================= TECH STACK ========================= -->
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <b>💻 Languages</b><br/><br/>
+      <b> Languages</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css,php,bash" alt="languages"/>
     </td>
     <td align="center" width="50%">
-      <b>⚙️ Frameworks & Tools</b><br/><br/>
+      <b> Frameworks & Tools</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=flask,nodejs,sqlite,git,github,vscode,linux,docker" alt="frameworks"/>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <b>🛡️ Security & Networking</b><br/><br/>
+      <b> Security & Networking</b><br/><br/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
       <img src="https://img.shields.io/badge/Metasploit-2B2B2B?style=for-the-badge&logo=metasploit&logoColor=white"/>
@@ -73,7 +73,7 @@
       <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
     </td>
     <td align="center">
-      <b>🤖 AI / Data & Embedded</b><br/><br/>
+      <b> AI / Data & Embedded</b><br/><br/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
@@ -91,8 +91,8 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏎️ NXP Cup 2026</h3>
-      <p align="center"><i>🏆 3rd Place — EMEA (Algeria & Tunisia)</i></p>
+      <h3 align="center"> NXP Cup 2026</h3>
+      <p align="center"><i> 3rd Place — EMEA (Algeria & Tunisia)</i></p>
       <p align="center">Autonomous racing-robot firmware: real-time line detection, PID control & motor management on embedded hardware.</p>
       <p align="center">
         <a href="https://github.com/Ahmedd-Ben-Salah/Nxp-Cup-2026">
@@ -101,7 +101,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Dalanda</h3>
+      <h3 align="center"> Dalanda</h3>
       <p align="center"><i>Python · RAG · Multi-Agent AI</i></p>
       <p align="center">AI personal memory assistant: turns your images, audio & documents into a searchable memory and answers with verified, grounded responses — plus a React chat UI.</p>
       <p align="center">
@@ -113,7 +113,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💊 MediCare Pharmacy</h3>
+      <h3 align="center"> MediCare Pharmacy</h3>
       <p align="center"><i>Full-Stack · CS50 Final Project</i></p>
       <p align="center">Online pharmacy web app: browse medicines, manage a cart and place orders — built end-to-end with Flask & SQLite.</p>
       <p align="center">
@@ -123,7 +123,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔗 LinkedIn Outreach Extension</h3>
+      <h3 align="center"> LinkedIn Outreach Extension</h3>
       <p align="center"><i>Chrome Extension · AI · Manifest V3</i></p>
       <p align="center">Side-panel tool that discovers prospects, scrapes public profiles and generates tailored DMs with Gemini / Groq.</p>
       <p align="center">
@@ -166,7 +166,7 @@
 ---
 
 <!-- ========================= CONNECT ========================= -->
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmedbensalahh">
